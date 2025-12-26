@@ -1,1 +1,2 @@
 dataset/books_cleaned.csv
+model_assets/cosine_sim.npy
